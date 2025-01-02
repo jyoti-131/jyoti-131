@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyoti-131&label=Profile%20views&color=0e75b6&style=flat" alt="jyoti-131" /> </p>
 
-- 📧 **Reach me**: jyotisinhap7@gmail.com
+- 📧 **Reach me**: jyotisinhap7@gmail.com  
 - 🌱 **Current Focus**: Expanding my skills and contributing to open-source projects
 
 <h3 align="left">Connect with me:</h3>
@@ -44,10 +44,6 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyoti-131&show_icons=true&locale=en&layout=compact" alt="jyoti-131" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyoti-131&show_icons=true&locale=en&hide=contribs" alt="jyoti-131" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyoti-131&" alt="jyoti-131" /></p>
 
 <h3 align="center">What I Value:</h3>
 <p align="center">
